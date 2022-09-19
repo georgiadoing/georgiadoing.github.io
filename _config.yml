@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Georgia"
-  avatar           : "headshot_crop"
+  avatar           : "headshot_crop.jpg"
   bio              : "post doc in the Oh lab"
   location         : "JAX-GM, Farmington CT"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0835-6955"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
