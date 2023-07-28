@@ -2,20 +2,22 @@
 title: "Unsupervised Extraction of Stable Expression Signatures from Public Compendia with an Ensemble of Neural Networks."
 collection: publications
 permalink: /publication/26/7/2017-Unsupervised-Extraction-of-Stable-Expression-Signatures-from-Public-Compendia-with-an-Ensemble-of-Neural-Networks
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about eADAGE.'
 date: 26/7/2017
 venue: 'Cell Systems'
 paperurl: 'http://academicpages.github.io/files/Unsupervised Extraction of Stable Expression Signatures from Public Compendia with an Ensemble of Neural Networks.pdf'
-citation: 'Doing G, Lee AJ, Neff SL, Reiter T, Holt JD, Stanton BA, Greene CS, Hogan DA.
-Computationally Efficient Assembly of Pseudomonas aeruginosa Gene Expression
-Compendia. mSystems. 2023 Feb 23;8(1):e0034122. doi: 10.1128/msystems.00341-22.
-Epub 2022 Dec 21. PubMed [citation] PMID: 36541761, PMCID: PMC9948711'
+citation: 'Tan J, Doing G, Lewis KA, Price CE, Chen KM, Cady KC, Perchuk B, Laub MT, Hogan
+DA, Greene CS. Unsupervised Extraction of Stable Expression Signatures from
+Public Compendia with an Ensemble of Neural Networks. Cell Syst. 2017 Jul
+26;5(1):63-71.e6. doi: 10.1016/j.cels.2017.06.003. Epub 2017 Jul 12. PubMed
+[citation] PMID: 28711280, PMCID: PMC5532071'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about eADAGE.
 
 [Download paper here](http://academicpages.github.io/files/Unsupervised Extraction of Stable Expression Signatures from Public Compendia with an Ensemble of Neural Networks.pdf)
 
-Recommended citation: Doing G, Lee AJ, Neff SL, Reiter T, Holt JD, Stanton BA, Greene CS, Hogan DA.
-Computationally Efficient Assembly of Pseudomonas aeruginosa Gene Expression
-Compendia. mSystems. 2023 Feb 23;8(1):e0034122. doi: 10.1128/msystems.00341-22.
-Epub 2022 Dec 21. PubMed [citation] PMID: 36541761, PMCID: PMC9948711
+Recommended citation: Tan J, Doing G, Lewis KA, Price CE, Chen KM, Cady KC, Perchuk B, Laub MT, Hogan
+DA, Greene CS. Unsupervised Extraction of Stable Expression Signatures from
+Public Compendia with an Ensemble of Neural Networks. Cell Syst. 2017 Jul
+26;5(1):63-71.e6. doi: 10.1016/j.cels.2017.06.003. Epub 2017 Jul 12. PubMed
+[citation] PMID: 28711280, PMCID: PMC5532071
