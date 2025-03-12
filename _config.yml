@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Georgia Doing"
 title_separator          : "-"
 name                     : &name "Georgia Doing"
-description              : &description "post doc in the Oh Lab"
+description              : &description "Post doc in the Oh Lab"
 url                      : https://georgiadoing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "georgiadoing.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Georgia"
   avatar           : "headshot_crop.jpg"
-  bio              : "post doc in the Oh lab"
-  location         : "JAX-GM, Farmington CT"
+  bio              : "Post doc in the Oh lab"
+  location         : "Duke University, Durham NC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Doing+G&cauthor_id=32813693"
+  googlescholar    : "https://scholar.google.com/citations?user=-GDlWUMAAAAJ&hl=en&inst=10163712085368340378"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
