@@ -1,24 +1,24 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Transfer learning on staphylococcal transcriptomics: GLEAning uncharacterized genes	Talk	talk-5	Northeast and CT Valley ASM	2025-04-25	"Worcester, MA"		Talk at Northeast and Connecticut Valley Joint Branch ASM Meeting
-Transfer learning on staphylococcal transcriptomics: exploring uncharacterized genes	Talk	talk-1	Duke Microbiome Center	2025-01-17	"Durham, NC"		Research in Progress Seminar (virtual)
-Staphylococcal CRISPRi library for gene essentiality testing	Talk	talk-2	Yale University	2025-11-15	"New Haven, CT"		Guest Seminar for the Yale Phage Center
-"GLEAn: Graphs Learned from Expression for Annotation, a proof-of -oncept study in staphylococci"	Talk	talk-3	New England Biolabs	2024-12-13	"Ipswitch, MA"		Invited Seminar at New England Biolabs
-Wrangling genomic and transcriptomic diversity of skin staphylococci	Talk	talk-4	Lake Arrowhead Microbial Genomics	2024-09-17	"Lake Arrowhead, CA"		Talk at LAMG Meeting
-Decoding microbial diversity on the skin	Talk	talk-7	CT State Northwestern	2024-06-07	"Winstead, CT"		Keynote at the New England Biology Association of Two-Year Colleges Conference 
-Transfer learning on staphylococcal transcriptional compendia	Talk	talk-6	DartCF Retreat	2024-05-04	"Hanover, NH"		Talk at the DartCF Reatreat at Dartmouth
-Transfer learning on staphylococcal transcriptional compendia	Talk	talk-8	The Jackson Laboratory for Genomic Medicine	2024-03-01	"Farmington, CT"		Trainee Talk at JAX-GM
-Wrangling Microbial Data	Talk	talk-9	Union College	2023-10-05	"Schenectady, NY"		"Seminar hosted by the Math, Computer Science and Biology Departments at Union College"
-Wrangling Microbial Diversity	Talk	talk-10	Bard College	2022-11-10	"Annandale on Hudson, NY"		Bio Seminar at Bard College
-Wrangling strain diversity in staphylococci contextualizes skin microbiomes	Talk	talk-11	University of Connecticut	2022-11-02	"Farmington, CT"		Flash Talk at a the Uconn/JAX Postdoc Day
-Strain-aware pipelines for microbial omics data	Talk	talk-12	The Jackson Laboratory for Genomic Medicine	2022-06-09	"Farmington, CT"		Talk at the JAX Computational Community Midyear Retreat (virtual)
-Measuring Microbial Mingling	Talk	talk-13	Thomas Jefferson High School	2022-06-01	"Alexandria, VA"		Seminar for a Microbial Genomics and Bioinformatics class at Thomas Jefferson High School for Science and Technology (virtual)
-A reductionist approach to transcriptomics: a focus on Pseudomonas aeruginosa	Talk	talk-14	Dartmouth College	2021-11-19	"Hanover, NH"		Doctoral Thesis Public Defense
-The hidden life of Pseudomonas aeruginosa: transcriptional patterns latent during microbial interactions	Talk	talk-15	The Jackson Laboratory for Genomic Medicine	2021-03-22	"Farmington, CT"		Seminar during an interview for a postdoc position in the Oh Lab
-Well-spoken killer whales: should we believe what we hear?	Talk	talk-16	Dartmouth College	2020-12-17	"Hanover, NH"	https://youtu.be/MEcZPuQYhn4?si=m3ILNBISfdrnNag6&t=1037	Science on Tap Talk for the Community (virtual)
-P. aeruginosa and C. albicans interactions as told by dual RNAseq	Talk	talk-17	Bard College	2020-09-10	"Annandale-on-Hudson, NY"		Bio Seminar at Bard College (virtual)
-Illuminating the black box of Neural Networks in R: visualizing the learned for the visual learner	Talk	talk-18	Dartmouth College	2020-01-08	"Hanover, NH"		Presentation for R Club at Dartmouth
-Deconvolving Pseudomonas aeruginosa Gene Expression in Co-Culture with Candida albicans: a Machine Learning Approach	Talk	talk-19	NEMPET	2019-06-28	"Blue Mountain Lake, NY"		"Talk at the New England Microbiology, Physiology, Ecology and Taxonomy Meeting"
-Exploratory plotting with heterogeneous data	Talk	talk-20	Dartmouth College	2018-01-22	"Hanover, NH"		Presentation for R Club at Dartmouth
-Gradients:  nuances in microbial interactions	Talk	talk-21	M2P2	2019-04-18	"Fairlee, VT"		Presentation at the Molecular Microbiology and Pathogenesis Program Retreat
-Integrating diverse Pseudomonas aeruginosa transcriptional profiles	Talk	talk-22	Princeton University	2017-06-08	"Princeton, NJ"		"Lightning Talk at the Computational, Systems and Integrative Genomics Meeting"
-Machine Learning on Images of a Microbial Mutant Library	Talk	talk-23	Bard College	2015-05-21	"Annandale-on-Hudson, NY"		Selected Senior Project Presentations
+Transfer learning on staphylococcal transcriptomics: GLEAning uncharacterized genes	Talk	talk-5	Northeast and CT Valley ASM	4/25/2025	"Worcester, MA"		Talk at Northeast and Connecticut Valley Joint Branch ASM Meeting
+Transfer learning on staphylococcal transcriptomics: exploring uncharacterized genes	Talk	talk-1	Duke Microbiome Center	1/17/2025	"Durham, NC"		Research in Progress Seminar (virtual)
+Staphylococcal CRISPRi library for gene essentiality testing	Talk	talk-2	Yale University	11/15/2025	"New Haven, CT"		Guest Seminar for the Yale Phage Center
+"GLEAn: Graphs Learned from Expression for Annotation, a proof-of -oncept study in staphylococci"	Talk	talk-3	New England Biolabs	12/13/2024	"Ipswitch, MA"		Invited Seminar at New England Biolabs
+Wrangling genomic and transcriptomic diversity of skin staphylococci	Talk	talk-4	Lake Arrowhead Microbial Genomics	9/17/2024	"Lake Arrowhead, CA"		Talk at LAMG Meeting
+Decoding microbial diversity on the skin	Talk	talk-7	CT State Northwestern	6/7/2024	"Winstead, CT"		Keynote at the New England Biology Association of Two-Year Colleges Conference 
+Transfer learning on staphylococcal transcriptional compendia	Talk	talk-6	DartCF Retreat	5/4/2024	"Hanover, NH"		Talk at the DartCF Reatreat at Dartmouth
+Transfer learning on staphylococcal transcriptional compendia	Talk	talk-8	The Jackson Laboratory for Genomic Medicine	3/1/2024	"Farmington, CT"		Trainee Talk at JAX-GM
+Wrangling Microbial Data	Talk	talk-9	Union College	10/5/2023	"Schenectady, NY"		"Seminar hosted by the Math, Computer Science and Biology Departments at Union College"
+Wrangling Microbial Diversity	Talk	talk-10	Bard College	11/10/2022	"Annandale-on-Hudson, NY"		Bio Seminar at Bard College
+Wrangling strain diversity in staphylococci contextualizes skin microbiomes	Talk	talk-11	University of Connecticut	11/2/2022	"Farmington, CT"		Flash Talk at a the Uconn/JAX Postdoc Day
+Strain-aware pipelines for microbial omics data	Talk	talk-12	The Jackson Laboratory for Genomic Medicine	6/9/2022	"Farmington, CT"		Talk at the JAX Computational Community Midyear Retreat (virtual)
+Measuring Microbial Mingling	Talk	talk-13	Thomas Jefferson High School	6/1/2022	"Alexandria, VA"		Seminar for a Microbial Genomics and Bioinformatics class at Thomas Jefferson High School for Science and Technology (virtual)
+A reductionist approach to transcriptomics: a focus on Pseudomonas aeruginosa	Talk	talk-14	Dartmouth College	11/19/2021	"Hanover, NH"		Doctoral Thesis Public Defense
+The hidden life of Pseudomonas aeruginosa: transcriptional patterns latent during microbial interactions	Talk	talk-15	The Jackson Laboratory for Genomic Medicine	3/22/2021	"Farmington, CT"		Seminar during an interview for a postdoc position in the Oh Lab
+Well-spoken killer whales: should we believe what we hear?	Talk	talk-16	Dartmouth College	12/17/2020	"Hanover, NH"	https://youtu.be/MEcZPuQYhn4?si=m3ILNBISfdrnNag6&t=1037	Science on Tap Talk for the Community (virtual)
+P. aeruginosa and C. albicans interactions as told by dual RNAseq	Talk	talk-17	Bard College	9/10/2020	"Annandale-on-Hudson, NY"		Bio Seminar at Bard College (virtual)
+Illuminating the black box of Neural Networks in R: visualizing the learned for the visual learner	Talk	talk-18	Dartmouth College	1/8/2020	"Hanover, NH"		Presentation for R Club at Dartmouth
+Deconvolving Pseudomonas aeruginosa Gene Expression in Co-Culture with Candida albicans: a Machine Learning Approach	Talk	talk-19	NEMPET	6/28/2019	"Blue Mountain Lake, NY"		"Talk at the New England Microbiology, Physiology, Ecology and Taxonomy Meeting"
+Exploratory plotting with heterogeneous data	Talk	talk-20	Dartmouth College	1/22/2018	"Hanover, NH"		Presentation for R Club at Dartmouth
+Gradients:  nuances in microbial interactions	Talk	talk-21	M2P2	4/18/2019	"Fairlee, VT"		Presentation at the Molecular Microbiology and Pathogenesis Program Retreat
+Integrating diverse Pseudomonas aeruginosa transcriptional profiles	Talk	talk-22	Princeton University	6/8/2017	"Princeton, NJ"		"Lightning Talk at the Computational, Systems and Integrative Genomics Meeting"
+Machine Learning on Images of a Microbial Mutant Library	Talk	talk-23	Bard College	5/21/2015	"Annandale-on-Hudson, NY"		Selected Senior Project Presentations
