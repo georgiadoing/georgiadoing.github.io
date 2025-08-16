@@ -35,17 +35,7 @@ var addressPoints = [
     -78.9018053
   ],
   [
-    "Los Angeles, CA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
-    "Annandale on Hudson, NY",
+    "Annandale-on-Hudson, NY",
     42.0128695,
     -73.9081901
   ],
@@ -55,8 +45,28 @@ var addressPoints = [
     -77.0470229
   ],
   [
-    "Annandale-on-Hudson, NY",
-    42.0128695,
-    -73.9081901
+    "Lake Arrowhead, CA",
+    34.2571781,
+    -117.1909059
+  ],
+  [
+    "Fairlee, VT",
+    43.906303,
+    -72.147903
+  ],
+  [
+    "New Haven, CT",
+    41.3082138,
+    -72.9250518
+  ],
+  [
+    "Blue Mountain Lake, NY",
+    43.856339,
+    -74.4315339
+  ],
+  [
+    "Worcester, MA",
+    42.2625621,
+    -71.8018877
   ]
 ];
