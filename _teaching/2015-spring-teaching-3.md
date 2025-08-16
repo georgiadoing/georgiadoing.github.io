@@ -1,9 +1,9 @@
 ---
 title: "Citizen Science at Bard College"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-3
-venue: "The Jackson Laboratory, Data Science Education"
+venue: "Bard College"
 date: 2024-09-01 
 location: "Annandale-on-Hudson, NY"
 ---
