@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Georgia Doing"
+title                    : "Doing Computational Biology"
 title_separator          : "-"
 name                     : &name "Georgia Doing"
 description              : &description "Visiting Assistant Professor of Computer Science at Union College, Schenectady, NY"
