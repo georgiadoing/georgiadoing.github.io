@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-3
 venue: "The Jackson Laboratory, Data Science Education"
-date: 
+date: 2024-09-01 
 location: "Annandale-on-Hudson, NY"
 ---
 
