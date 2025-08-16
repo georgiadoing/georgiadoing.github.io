@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-2
 venue: "The Jackson Laboratory, Data Science Education"
-date: Summer 2025
+date: 2025
 location: "Biddeford, ME"
 ---
 
